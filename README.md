@@ -87,7 +87,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Suporte
 
-- Para dúvidas sobre LaTeX, consulte a [wiki do repositório](https://github.com/OgliariNatan/Template-UNOPAR/wiki).
+- Para dúvidas sobre LaTeX, consulte a [wiki do repositório](https://github.com/ciencia-da-computacao-unoesc/Modelo-de-trabalho/wiki).
 - Editores recomendados: [VS Code](https://code.visualstudio.com/) com extensão LaTeX, [Overleaf](https://www.overleaf.com/), [TeXstudio](https://www.texstudio.org/).
 
 ---
